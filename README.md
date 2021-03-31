@@ -16,9 +16,14 @@ I'm a mobile developer and welcome to my github profile.
 
 ![](https://img.shields.io/badge/Editor-Android_Studio-informational?style=flat&logo=android-studio&logoColor=white&color=2bbc8a)
 
-## 💼 My projects
+<!-- ## 💼 Projects
 
-... fill this later ...
+### Foxtrot
+In [Hivemind](https://github.com/H1veMind) we mobile game with unique gameplay. [Google Play](https://play.google.com/store/apps/details?id=com.hivemind.Foxtrot)
+
+### Attempt games
+There are some simple games on Unity, that i 
+-->
 
 ## &#x1f4c8; GitHub Stats
 
