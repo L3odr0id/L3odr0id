@@ -1,5 +1,6 @@
 # Hi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 I'm a mobile developer and welcome to my github profile.
+![visitors](https://visitor-badge.glitch.me/badge?page_id=l3odr0id.l3odr0id)
 
 ## Contacts
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/l3odr0id)
