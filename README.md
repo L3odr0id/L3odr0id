@@ -1,5 +1,5 @@
 # Hi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-I'm a mobile developer and welcome to my github profile.
+I'm a Flutter evangelist!
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=l3odr0id.l3odr0id)
 
@@ -16,7 +16,7 @@ I'm a mobile developer and welcome to my github profile.
 ![C++](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=C%2b%2b&&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 
-![](https://img.shields.io/badge/Editor-Android_Studio-informational?style=flat&logo=android-studio&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-Intellij_idea-informational?style=flat&logo=android-studio&logoColor=white&color=2bbc8a)
 
 <!-- ## 💼 Projects
 
