@@ -27,6 +27,10 @@ There are some simple games on Unity, that i
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/L3odr0id/L3odr0id">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=L3odr0id&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="L3odr0id's GitHub Stats" />
-</a>
+![L3odr0id's GitHub stats](https://github-readme-stats.vercel.app/api/?username=L3odr0id&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=L3odr0id&layout=compact&title_color=fff&text_color=eee&icon_color=79ff97&bg_color=151515)](https://github.com/L3odr0id/L3odr0id)
+
+
+
