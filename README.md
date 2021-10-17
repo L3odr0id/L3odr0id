@@ -44,17 +44,25 @@ There are some simple games on Unity, that i
 <table border="0">
 <tr border="0">
 
-<td width="55%" align="center">
+<td width="50%" align="center">
 <img  title="Stats" src="https://github-readme-stats.vercel.app/api/?username=L3odr0id&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 <br></br>
 <img  align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=L3odr0id&theme=dark" />
 </td>
 
-<td width="45%" align="center">
-<img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=L3odr0id&title_color=fff&text_color=eee&icon_color=79ff97&bg_color=151515"/>
-<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=L3odr0id"/> -->
+<td width="50%" align="center">
+<img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=L3odr0id&title_color=fff&layout=compact&text_color=eee&icon_color=79ff97&bg_color=151515"/>
+  <br></br>
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=L3odr0id&layout=compact&theme=dark"/>
 </td>
 </tr>
 </table>
+
+<details>
+    <summary>&#127942 <b>GitHub Awards</b></summary><br/>
+
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=L3odr0id)
+
+</details>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=l3odr0id.l3odr0id)
