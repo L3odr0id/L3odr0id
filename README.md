@@ -27,11 +27,17 @@ There are some simple games on Unity, that i
 
 ## &#x1f4c8; GitHub Stats
 
-![L3odr0id's GitHub stats](https://github-readme-stats.vercel.app/api/?username=L3odr0id&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+<table border="0">
+<tr border="0">
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=L3odr0id&layout=compact&title_color=fff&text_color=eee&icon_color=79ff97&bg_color=151515)](https://github.com/L3odr0id/L3odr0id)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=L3odr0id&theme=dark)](https://git.io/streak-stats)
-
-
+<td width="55%" align="center">
+<img  title="Stats" src="https://github-readme-stats.vercel.app/api/?username=L3odr0id&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+  <br></br>
+<img  align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=L3odr0id&theme=dark" />
+</td>
+<td width="45%" align="center">
+<img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=L3odr0id&title_color=fff&text_color=eee&icon_color=79ff97&bg_color=151515"/>
+</td>
+</tr>
+</table>
