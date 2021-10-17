@@ -32,5 +32,6 @@ There are some simple games on Unity, that i
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=L3odr0id&layout=compact&title_color=fff&text_color=eee&icon_color=79ff97&bg_color=151515)](https://github.com/L3odr0id/L3odr0id)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=L3odr0id&theme=dark)](https://git.io/streak-stats)
 
 
