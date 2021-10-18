@@ -16,7 +16,7 @@
 <img alt="Dart" src="https://img.shields.io/badge/Dart%20-%230075BA.svg?logo=dart&logoColor=white">
 <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white">
 <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white">
-  <img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&logoColor=white">
+<!--   <img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&logoColor=white"> -->
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
     </p>
 <!-- ![Flutter](https://img.icons8.com/color/40/flutter.png) ![Dart](https://img.icons8.com/color/40/dart.png) ![C](https://img.icons8.com/color/40/000000/c-programming.png) ![C++](https://img.icons8.com/color/40/c-plus-plus-logo.png) ![VSCode](https://img.icons8.com/color/40/visual-studio-code-2019.png) -->
