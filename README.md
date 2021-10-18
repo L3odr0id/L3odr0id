@@ -41,6 +41,12 @@ There are some simple games on Unity, that i
 
 ## &#x1f4c8; GitHub Stats
 
+<!-- <p>
+  <img  title="Stats" width="49%" src="https://github-readme-stats.vercel.app/api/?username=L3odr0id&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+  <img  align="center" width="49%"  src="https://github-readme-streak-stats.herokuapp.com/?user=L3odr0id&theme=dark" />
+  <img  align="center"   src="https://github-readme-stats.vercel.app/api/top-langs/?username=L3odr0id&title_color=fff&layout=compact&text_color=eee&icon_color=79ff97&bg_color=151515"/>
+  <img align="center"  width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=L3odr0id&layout=compact&theme=dark"/>
+</p> -->
 <table border="0">
 <tr border="0">
 
