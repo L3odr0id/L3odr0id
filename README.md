@@ -2,7 +2,6 @@
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=comfortaa&center=true&color=016EEA&size=24&width=500&lines=I'm+a+Flutter+developer;Nice+to+meet+you..."/>
-<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=I'm+a+Flutter+developer;Nice+to+meet+you...)](https://git.io/typing-svg) -->
 </p>
 
 <!-- ![Telegram](https://img.shields.io/badge/Telegram-%230088CC.svg?style=flat-square&logo=telegram&logoColor=white) -->
@@ -16,9 +15,8 @@
 <img alt="Dart" src="https://img.shields.io/badge/Dart%20-%230075BA.svg?logo=dart&logoColor=white">
 <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white">
 <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white">
-<!--   <img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&logoColor=white"> -->
-  <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
-    </p>
+<img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
+</p>
 <!-- ![Flutter](https://img.icons8.com/color/40/flutter.png) ![Dart](https://img.icons8.com/color/40/dart.png) ![C](https://img.icons8.com/color/40/000000/c-programming.png) ![C++](https://img.icons8.com/color/40/c-plus-plus-logo.png) ![VSCode](https://img.icons8.com/color/40/visual-studio-code-2019.png) -->
 
 <!--![Linux](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)-->
@@ -33,41 +31,30 @@
 <!-- ## 💼 Projects
 
 ### Foxtrot
-In [Hivemind](https://github.com/H1veMind) we mobile game with unique gameplay. [Google Play](https://play.google.com/store/apps/details?id=com.hivemind.Foxtrot)
+In [Hivemind](https://github.com/H1veMind) we created mobile game with unique gameplay. [Google Play](https://play.google.com/store/apps/details?id=com.hivemind.Foxtrot)
 
 ### Attempt games
-There are some simple games on Unity, that i 
+
 -->
 
 ## &#x1f4c8; GitHub Stats
 
-<!-- <p>
-  <img    src="https://github-readme-stats.vercel.app/api/top-langs/?username=L3odr0id&title_color=fff&layout=compact&text_color=eee&icon_color=79ff97&bg_color=151515"/>
-  <br></br>
-  <img  title="Stats"  src="https://github-readme-stats.vercel.app/api/?username=L3odr0id&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
-  <img     src="https://github-readme-streak-stats.herokuapp.com/?user=L3odr0id&theme=dark" />
+<p>
+
+  <img  title="Stats" width="480" src="https://github-readme-stats.vercel.app/api/?username=L3odr0id&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+  <img  width="480"   src="https://github-readme-streak-stats.herokuapp.com/?user=L3odr0id&theme=dark" />
   
-  <img  src="https://github-readme-stats.vercel.app/api/wakatime?username=L3odr0id&layout=compact&theme=dark"/>
-</p> -->
-<table border="0">
-<tr border="0">
+</p>
+  
+## :hammer_and_wrench: Language Stats
 
-<td width="50%" align="center">
-<img  title="Stats" src="https://github-readme-stats.vercel.app/api/?username=L3odr0id&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
-<br></br>
-<img  align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=L3odr0id&theme=dark" />
-</td>
-
-<td width="50%" align="center">
-<img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=L3odr0id&title_color=fff&layout=compact&text_color=eee&icon_color=79ff97&bg_color=151515"/>
-  <br></br>
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=L3odr0id&layout=compact&theme=dark"/>
-</td>
-</tr>
-</table>
+<p>
+<img width="480" src="https://github-readme-stats.vercel.app/api/wakatime?username=L3odr0id&layout=compact&theme=dark&langs_count=6&hide=other,xml,json"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=L3odr0id&title_color=fff&layout=compact&text_color=eee&icon_color=79ff97&bg_color=151515"/>
+</p>
 
 <details>
-    <summary>&#127942 <b>GitHub Awards</b></summary><br/>
+<summary>&#127942 <b>GitHub Awards</b></summary><br/>
 
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=L3odr0id)
 
