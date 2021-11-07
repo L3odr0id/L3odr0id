@@ -50,7 +50,7 @@ In [Hivemind](https://github.com/H1veMind) we created mobile game with unique ga
 
 <p>
 <img width="480" src="https://github-readme-stats.vercel.app/api/wakatime?username=L3odr0id&layout=compact&theme=dark&langs_count=6&hide=other,xml,json"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=L3odr0id&title_color=fff&layout=compact&text_color=eee&icon_color=79ff97&bg_color=151515"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=L3odr0id&title_color=fff&layout=compact&text_color=eee&icon_color=79ff97&bg_color=151515&hide=javascript"/>
 </p>
 
 <details>
