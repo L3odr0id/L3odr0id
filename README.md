@@ -41,7 +41,7 @@ In [Hivemind](https://github.com/H1veMind) we created mobile game with unique ga
 
 <p>
 
-  <img  title="Stats" width="480" src="https://github-readme-stats.vercel.app/api/?username=L3odr0id&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+  <img  title="Stats" width="480" src="https://github-readme-stats.vercel.app/api/?username=L3odr0id&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" /> <br></br>
   <img  width="480"   src="https://github-readme-streak-stats.herokuapp.com/?user=L3odr0id&theme=dark" />
   
 </p>
@@ -50,7 +50,8 @@ In [Hivemind](https://github.com/H1veMind) we created mobile game with unique ga
 
 <p>
 <img width="480" height="160" src="https://github-readme-stats.vercel.app/api/wakatime?username=L3odr0id&layout=compact&theme=dark&langs_count=6&hide=other,xml,json"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L3odr0id&title_color=fff&layout=compact&text_color=eee&icon_color=79ff97&bg_color=151515&hide=javascript,html,ruby"/>
+  <br></br>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L3odr0id&title_color=fff&layout=compact&text_color=9F9F9F&card_width=445&icon_color=79ff97&bg_color=151515&hide=javascript,html,ruby"/>
 </p>
 
 <details>
