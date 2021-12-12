@@ -28,15 +28,6 @@
 
 <!--![](https://img.shields.io/badge/Editor-Intellij_idea-informational?style=flat&logo=android-studio&logoColor=white&color=2bbc8a)-->
 
-<!-- ## 💼 Projects
-
-### Foxtrot
-In [Hivemind](https://github.com/H1veMind) we created mobile game with unique gameplay. [Google Play](https://play.google.com/store/apps/details?id=com.hivemind.Foxtrot)
-
-### Attempt games
-
--->
-
 ## &#x1f4c8; GitHub Stats
 
 <p>
