@@ -10,13 +10,16 @@
 <!-- [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/l3odr0id) -->
 
 ## 🔧 Technologies & Tools
-<p>
-<img alt="Flutter" src="https://img.shields.io/badge/Flutter%20-%230D47A1.svg?logo=flutter&logoColor=white">
-<img alt="Dart" src="https://img.shields.io/badge/Dart%20-%230075BA.svg?logo=dart&logoColor=white">
-<img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white">
-<img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white">
-<img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
-</p>
+![Flutter](https://img.shields.io/badge/flutter-%230175C2.svg?style=for-the-badge&logo=flutter&logoColor=white) 
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) 
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
+![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+
 
 <!-- ![Flutter](https://img.icons8.com/color/40/flutter.png) ![Dart](https://img.icons8.com/color/40/dart.png) ![C](https://img.icons8.com/color/40/000000/c-programming.png) ![C++](https://img.icons8.com/color/40/c-plus-plus-logo.png) ![VSCode](https://img.icons8.com/color/40/visual-studio-code-2019.png) -->
 
