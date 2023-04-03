@@ -59,9 +59,9 @@
 
 ## Dart packages
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=L3odr0id&repo=keystore_generator&title_color=fff&layout=compact&text_color=9F9F9F&card_width=445&icon_color=50B1AA&bg_color=151515)](https://github.com/L3odr0id/keystore_generator)
+[![Readme Card](https://github-readme-stats-l3odr0id.vercel.app/api/pin/?username=L3odr0id&repo=keystore_generator&title_color=fff&layout=compact&text_color=9F9F9F&card_width=445&icon_color=50B1AA&bg_color=151515)](https://github.com/L3odr0id/keystore_generator)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=L3odr0id&repo=asset_fill&title_color=fff&layout=compact&text_color=9F9F9F&card_width=445&icon_color=50B1AA&bg_color=151515)](https://github.com/L3odr0id/asset_fill)
+[![Readme Card](https://github-readme-stats-l3odr0id.vercel.app/api/pin/?username=L3odr0id&repo=asset_fill&title_color=fff&layout=compact&text_color=9F9F9F&card_width=445&icon_color=50B1AA&bg_color=151515)](https://github.com/L3odr0id/asset_fill)
 
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
