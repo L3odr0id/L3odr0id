@@ -46,7 +46,7 @@
 <p>
 <img width="480" height="200" src="https://github-readme-stats.vercel.app/api/wakatime?username=L3odr0id&layout=compact&theme=dark&langs_count=8&hide=other,xml,json"/>
   <br></br>
-<img height="160" src="https://github-readme-stats-7labol1qu-l3odr0id.vercel.app/api/top-langs/?username=l3odr0id&hide=Jupyter%20Notebook,JavaScript,CSS&title_color=fff&layout=compact&text_color=9F9F9F&card_width=445&icon_color=79ff97&bg_color=151515"/>
+<img height="140" src="https://github-readme-stats-7labol1qu-l3odr0id.vercel.app/api/top-langs/?username=l3odr0id&hide=Jupyter%20Notebook,JavaScript,CSS,C%23&title_color=fff&layout=compact&text_color=9F9F9F&card_width=445&icon_color=79ff97&bg_color=151515&langs_count=4"/>
 </p>
 
 
