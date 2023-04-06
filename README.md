@@ -36,7 +36,7 @@
 
 <p>
 
-  <img  title="Stats" width="480" src="https://github-readme-stats-eight-gamma-30.vercel.app/api/?username=L3odr0id&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" /> <br></br>
+<!--   <img  title="Stats" width="480" src="https://github-readme-stats-eight-gamma-30.vercel.app/api/?username=L3odr0id&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" /> <br></br> -->
   <img  width="480"   src="https://github-readme-streak-stats.herokuapp.com/?user=L3odr0id&theme=dark" />
   
 </p>
@@ -50,12 +50,12 @@
 </p>
 
 
-<details>
+<!-- <details>
 <summary>&#127942 <b>GitHub Awards</b></summary><br/>
 
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=L3odr0id)
 
-</details>
+</details> -->
 
 ## Dart packages
 
