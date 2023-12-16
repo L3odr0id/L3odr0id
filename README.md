@@ -1,8 +1,8 @@
 <h1 align="center"> Hi, I'm L3odr0id! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="35px"> </h1>
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=comfortaa&center=true&color=016EEA&size=24&width=500&lines=I'm+a+Flutter+developer;Nice+to+meet+you..."/>
-</p>
+</p> -->
 
 <!-- ![Telegram](https://img.shields.io/badge/Telegram-%230088CC.svg?style=flat-square&logo=telegram&logoColor=white) -->
 
