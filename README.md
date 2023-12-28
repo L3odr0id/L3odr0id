@@ -9,6 +9,7 @@
 <!-- ## 💼 Contacts -->
 <!-- [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/l3odr0id) -->
 
+<!--
 ## 🔧 Technologies & Tools
 ![Flutter](https://img.shields.io/badge/flutter-%230175C2.svg?style=for-the-badge&logo=flutter&logoColor=white) 
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) 
@@ -18,6 +19,7 @@
 ![Kotlin](https://img.shields.io/badge/kotlin-%23f1a233.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+-->
 
 
 
