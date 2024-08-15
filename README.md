@@ -1,4 +1,4 @@
-<h1 align="center"> Hi, I'm L3odr0id! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="35px"> </h1>
+<!-- <h1 align="center"> Hi, I'm L3odr0id! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="35px"> </h1> -->
 
 <!-- <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=comfortaa&center=true&color=016EEA&size=24&width=500&lines=I'm+a+Flutter+developer;Nice+to+meet+you..."/>
@@ -40,7 +40,6 @@
 
 <!--   <img  title="Stats" width="480" src="https://github-readme-stats-eight-gamma-30.vercel.app/api/?username=L3odr0id&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" /> <br></br> -->
   <img  width="480"   src="https://github-readme-streak-stats.herokuapp.com/?user=L3odr0id&theme=dark" />
-  
 </p>
   
 ## :hammer_and_wrench: Language Stats
