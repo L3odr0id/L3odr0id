@@ -1,14 +1,5 @@
 <!-- <h1 align="center"> Hi, I'm L3odr0id! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="35px"> </h1> -->
 
-<!-- <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=comfortaa&center=true&color=016EEA&size=24&width=500&lines=I'm+a+Flutter+developer;Nice+to+meet+you..."/>
-</p> -->
-
-<!-- ![Telegram](https://img.shields.io/badge/Telegram-%230088CC.svg?style=flat-square&logo=telegram&logoColor=white) -->
-
-<!-- ## 💼 Contacts -->
-<!-- [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/l3odr0id) -->
-
 <!--
 ## 🔧 Technologies & Tools
 ![Flutter](https://img.shields.io/badge/flutter-%230175C2.svg?style=for-the-badge&logo=flutter&logoColor=white) 
@@ -34,13 +25,13 @@
 
 <!--![](https://img.shields.io/badge/Editor-Intellij_idea-informational?style=flat&logo=android-studio&logoColor=white&color=2bbc8a)-->
 
-## &#x1f4c8; GitHub Stats
+<!-- ## &#x1f4c8; GitHub Stats -->
 
-<p>
+<!--  <p> -->
 
 <!--   <img  title="Stats" width="480" src="https://github-readme-stats-eight-gamma-30.vercel.app/api/?username=L3odr0id&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" /> <br></br> -->
-  <img  width="480"   src="https://github-readme-streak-stats.herokuapp.com/?user=L3odr0id&theme=dark" />
-</p>
+ <!--  <img  width="480"   src="https://github-readme-streak-stats.herokuapp.com/?user=L3odr0id&theme=dark" /> -->
+<!--  </p> -->
   
 ## :hammer_and_wrench: Language Stats
 
