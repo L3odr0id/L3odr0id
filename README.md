@@ -3,7 +3,7 @@
 ## Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=L3odr0id&layout=compact&theme=dark&langs_count=10&hide=other,xml,json"/>
+  <img src="https://github-readme-stats-naf8.vercel.app/api/wakatime?username=L3odr0id&layout=compact&theme=dark&langs_count=16&hide=other,xml,json"/>
 </p>
 
 Profile 👀 count ![visitors](https://visitor-badge.laobi.icu/badge?page_id=l3odr0id.l3odr0id)
